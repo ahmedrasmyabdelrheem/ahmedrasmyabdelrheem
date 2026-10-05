@@ -1,7 +1,7 @@
 ## Hi there, I'm Ahmed Rasmy 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=460&lines=Data+%26+Business+Intelligence+Analyst; Turning+Raw+Data+into+Actionable+Insights;SQL+•+Power+BI+•+DAX+•+Power+Automate;Automated+End-to-End+BI+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=460&lines=Data+%26+Business+Intelligence+Analyst;Turning+Raw+Data+into+Actionable+Insights;SQL+•+Power+BI+•+DAX+•+Power+Automate;Automated+End-to-End+BI+Pipelines" alt="Typing SVG" />
 </div>
 
 <p align="center">
