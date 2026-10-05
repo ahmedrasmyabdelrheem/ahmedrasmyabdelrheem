@@ -1,62 +1,74 @@
-## Hi there, I'm Ahmed Rasmy👋
+## Hi there, I'm Ahmed Rasmy 👋
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=460&lines=Data+%26+Business+Intelligence+Analyst;Turning+Raw+Data+into+Actionable+Insights;SQL+•+Power+BI+•+DAX+•+Power+Automate;Automated+End-to-End+BI+Pipelines" alt="Typing SVG" />
 </div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="www.linkedin.com/in/ahmedrasmyabdelrheem"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="ahmed.rasmy.abdelrheem@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/ahmedrasmyabdelrheem" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ahmed.rasmy.abdelrheem@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+---
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+## 🚀 About Me
+I'm a **Data & Business Intelligence Analyst** with a degree in Management Information Systems (MIS) and intensive training from DEPI and NTI. 
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+I specialize in building actionable BI solutions—not just static charts. My core focus centers on data cleansing, Star Schema dimensional modeling, customer segmentation, automated data ingestion pipelines, and interactive KPI tracking. I bridge the gap between business operations and technical data pipelines to drive informed decision-making.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
-      
-## 🔭 What I'm Currently Working On 
-
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
-
-## 🌱 Currently Learning 
-
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+---
 
 ## 🛠️ Technical Skillset
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
-
-#### Data Analysis & Visualization
-<p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
-</p>
-
-#### Programming & Automation
-<p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-</p>
-
 #### Business Intelligence & Analytics
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Badge">
+  <img src="https://img.shields.io/badge/DAX-Data_Analysis_Expressions-205493?style=for-the-badge" alt="DAX Badge">
+  <img src="https://img.shields.io/badge/Power_Query-ETL-00758F?style=for-the-badge" alt="Power Query Badge">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-Power_Pivot-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel Badge">
+  <img src="https://img.shields.io/badge/Power_BI_Service-Cloud_Refresh-EAA200?style=for-the-badge" alt="Power BI Service Badge">
+</p>
+
+#### Database & Programming
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-SSMS-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server Badge">
+  <img src="https://img.shields.io/badge/T--SQL-Queries_%26_Views-00599C?style=for-the-badge" alt="T-SQL Badge">
+  <img src="https://img.shields.io/badge/Python-Data_Wrangling-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge">
+</p>
+
+#### Automation & Workflow
+<p>
+  <img src="https://img.shields.io/badge/Power_Automate-Cloud_Flows-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate Badge">
+  <img src="https://img.shields.io/badge/Google_Workspace-Sheets_%26_Forms-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Workspace Badge">
+</p>
+
+---
+
+## 💼 Featured Projects
+
+### 📊 [Customer Behavioral Segmentation & RFM Analysis](https://github.com/your-username/rfm-customer-segmentation)
+- Consolidated 12 months of sales transactions using **T-SQL** and window functions (`NTILE`) to calculate Recency, Frequency, and Monetary scores.
+- Engineered behavioral logic to classify 287 accounts into cohorts (e.g., Champions, Hibernating).
+- Built an interactive **Power BI** dashboard enabling granular customer drill-downs and segment transition tracking.
+
+### 🏭 [Manufacturing Quality Control & Production Analytics](https://github.com/your-username/manufacturing-qc-dashboard)
+- Designed an end-to-end ingestion pipeline utilizing 3 role-based **Google Forms** across 4 production lines to log real-time defect entries.
+- Transformed and appended data via **Power Query**, authoring DAX measures to track an overall **44.61% scrap rate** and **5 line downtime stoppages** across 25K+ garments.
+- Deployed the dashboard to **Power BI Service** with an **8-hour automated scheduled refresh**.
+
+### 📈 [Sales & Revenue Performance Executive Dashboard](https://github.com/your-username/sales-performance-dashboard)
+- Modeled a relational **Star Schema** in **Power Pivot** linking Fact orders to Customer, Product, and Calendar dimensions.
+- Authored iterator DAX measures (`SUMX`, `AVERAGEX`, `DATEDIFF`) tracking operational efficiency across 1,000 orders and $3.5M+ in revenue.
+
+---
+
+## 🌱 Currently Exploring
+- Advanced **Power BI Service** administration, workspace governance, and row-level security (RLS).
+- Enterprise Data Modeling architectures and semantic layer design.
+
+---
+
+<p align="center">
+  <i>"Transforming complexity into clarity through data storytelling."</i>
 </p>
